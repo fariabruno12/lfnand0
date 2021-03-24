@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- My name is Luiz Fernando, I'm from Brazil, and I'm currently in college studying Computer Science (PUC Minas).
+- I speak both English and Portuguese fluently
+- Though I'm rather familiarized with programming overall, I still don't have one specific language I can safely say I'm great at it - which is a good thing, since it's what keeps me studying and searching for more information.
+- My first contact with programming was when I was only 12 years old, through both Arduino and Scratch, and since then I grew to love it more and more.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfnand0)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lfnand0/lfnand0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
