@@ -14,7 +14,7 @@ Skills: Javascript / Python / C / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lfnand0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luiz-f/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15472473)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/dexTHRW)  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfnand0)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfnand0&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lfnand0/lfnand0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
